@@ -1,4 +1,4 @@
-# Expanding-Cards
+# Expanding-Cards HTML, CSS, JavaScript
 
 ## Credit goes to Brad Traversy and Florin Pop
 
